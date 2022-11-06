@@ -1,9 +1,2 @@
-# This is a test from gitbook
+# Page 1
 
-## Heading 1
-
-### Heading 2
-
-```javascript
-Awesome code block
-```

@@ -1,7 +1,6 @@
 # Table of contents
 
-* [This is a test from gitbook](README.md)
+## Docker
 
-## Group 1
-
-* [Test Group Page](group-1/test-group-page.md)
+* [Introduction](README.md)
+* [Useful commands](docker/useful-commands.md)

@@ -9,7 +9,11 @@
 
 ## Software Architecture
 
-* [Page 1](software-architecture/page-1.md)
+* [Fundamentals](software-architecture/fundamentals.md)
+* [Characteristic](software-architecture/characteristic.md)
+* [Performance](software-architecture/performance.md)
+* [Scalability](software-architecture/scalability.md)
+* [Resilience](software-architecture/resilience.md)
 
 ## Advanced Patterns and Techniques with Git and Github
 

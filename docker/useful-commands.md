@@ -1,4 +1,4 @@
-# Useful commands
+# 🎮 Useful commands
 
 ## <mark style="color:purple;">Run a new container</mark> <a href="#run-a-new-container" id="run-a-new-container"></a>
 

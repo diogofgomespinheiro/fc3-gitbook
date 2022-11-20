@@ -10,7 +10,7 @@
 ## Software Architecture
 
 * [Fundamentals](software-architecture/page-1.md)
-* [Characteristic](software-architecture/characteristic.md)
+* [Architectural Characteristics](software-architecture/architectural-characteristics.md)
 * [Performance](software-architecture/performance.md)
 * [Scalability](software-architecture/scalability.md)
 * [Resilience](software-architecture/resilience.md)

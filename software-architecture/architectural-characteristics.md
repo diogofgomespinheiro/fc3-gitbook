@@ -1,7 +1,5 @@
 # Architectural Characteristics
 
-
-
 ### <mark style="color:purple;">Operational</mark> <a href="#operational" id="operational"></a>
 
 * Availability

@@ -1,4 +1,4 @@
-# CMD vs Entrypoint
+# 🖥 CMD vs Entrypoint
 
 The `ENTRYPOINT` specifies a command that will always be executed when the container starts.
 

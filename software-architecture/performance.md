@@ -28,7 +28,7 @@
 
 ## <mark style="color:purple;">Horizontal vs Vertical scaling</mark> <a href="#horizontal-vs-vertical-scaling" id="horizontal-vs-vertical-scaling"></a>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:purple;">Caching</mark> <a href="#caching" id="caching"></a>
 

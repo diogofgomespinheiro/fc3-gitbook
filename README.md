@@ -6,4 +6,4 @@ A container is a standard unit of software that packages up code and all its dep
 
 ## <mark style="color:purple;">Docker images</mark> <a href="#docker-images" id="docker-images"></a>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt="Dokcer image hierarchy"><figcaption><p>Dokcer image hierarchy</p></figcaption></figure>

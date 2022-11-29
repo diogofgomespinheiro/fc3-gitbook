@@ -34,4 +34,5 @@
 
 ## Kubernetes
 
-* [Introduction](kubernetes/introduction.md)
+* [Introduction](kubernetes/introduction/README.md)
+  * [Use kubernetes on your local machine](kubernetes/introduction/use-kubernetes-on-your-local-machine.md)

@@ -21,4 +21,4 @@ It groups containers that make up an application into logical units for easy man
 
 ## Dynamic (superficial)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

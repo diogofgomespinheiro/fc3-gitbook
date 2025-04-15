@@ -4,7 +4,7 @@
 
 * [🔤 Introduction](README.md)
 * [🎮 Useful commands](docker/useful-commands.md)
-* [🖥 CMD vs Entrypoint](docker/cmd-vs-entrypoint.md)
+* [🖥️ CMD vs Entrypoint](docker/cmd-vs-entrypoint.md)
 * [🌐 Network](docker/network.md)
 
 ## Software Architecture
@@ -23,16 +23,3 @@
   * [Asynchronous work](software-architecture/resilience/asynchronous-work.md)
   * [Delivery guarantees with retries](software-architecture/resilience/delivery-guarantees-with-retries.md)
   * [Delivery guarantees: Kafka](software-architecture/resilience/delivery-guarantees-kafka.md)
-
-## Advanced Patterns and Techniques with Git and Github
-
-* [Page 2](advanced-patterns-and-techniques-with-git-and-github/page-2.md)
-
-## Continuous Integration
-
-* [Page 3](continuous-integration/page-3.md)
-
-## Kubernetes
-
-* [Introduction](kubernetes/introduction/README.md)
-  * [Use kubernetes on your local machine](kubernetes/introduction/use-kubernetes-on-your-local-machine.md)
